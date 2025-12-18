@@ -86,4 +86,3 @@ with st.chat_message("assistant"):
 st.session_state.messages.append({"role": "assistant", "content": response})
 
 
-Extern
